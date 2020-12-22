@@ -1,0 +1,49 @@
+---
+title: "Time Series Econometrics, Fall 2019"
+subtitle: "Extra Quizzes"
+author: "Vladimir Pyrlik"
+date: "October 18, 2019"
+output:
+  xaringan::moon_reader:
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    lib_dir: libs
+    css: [libs/main.css, libs/fonts.css, libs/animate.css]
+    chakra: libs/remark-latest.min.js
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+      highlightLines: true
+      ratio: "8:5"
+
+---
+class: center, animated, flipInY
+
+##Your Extra Quiz is about to Start!
+
+</br></br>
+
+#Check your internet connection
+#and wait for the link!
+
+---
+class: center, animated, bounceIn
+##Only one quiz is allowed!
+
+###Follow the link and choose your quiz:
+
+#www.wooclap.com/TSE1810
+
+---
+class: center 
+##Only one quiz is allowed!
+
+###Follow the link and choose your quiz:
+
+#www.wooclap.com/TSE1810
+
+###time remaining
+
+```{r echo=FALSE}
+countdown::countdown(minutes = 8, seconds = 00,
+                     left=0, right=0, padding='20px', margin='10%', font_size = '3em')
+```
